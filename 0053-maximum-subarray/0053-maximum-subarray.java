@@ -28,6 +28,7 @@ class Solution {
         // }
         // return  max;
 
+//kadane algo
         int max =nums[0];
         int currentMax=nums[0];
         for (int i =1;i<nums.length;i++){
