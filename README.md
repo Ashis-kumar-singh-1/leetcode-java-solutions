@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
