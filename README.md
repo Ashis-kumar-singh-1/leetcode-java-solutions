@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
