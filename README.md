@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0455-assign-cookies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0876-middle-of-the-linked-list) |
