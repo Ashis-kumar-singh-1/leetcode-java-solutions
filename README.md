@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1025-divisor-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1025-divisor-game) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
