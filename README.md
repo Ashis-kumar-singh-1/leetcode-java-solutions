@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0234-palindrome-linked-list) |
