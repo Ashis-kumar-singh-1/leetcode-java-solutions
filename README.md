@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1025-divisor-game) |
+| [1922-count-good-numbers](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
