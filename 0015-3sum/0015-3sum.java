@@ -84,13 +84,13 @@ class Solution {
                 // if j will have equal to current value and previous value then
                 while (j<k && nums[j]==nums[j-1]){
                     j++;
-                }
+                 }
                 while (j < k && nums[k] == nums[k + 1]){
                     k--;
-                }
+                 }
                 }
             }
         }
         return result;
     }
-}
+} 
