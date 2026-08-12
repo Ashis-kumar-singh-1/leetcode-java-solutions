@@ -33,6 +33,6 @@ class Solution {
         maxsum = Math.max(maxsum,currentpath);
 
         return root.val + Math.max(leftmax,rightmax); 
-        // return maxsum;
+    
     }
 }
