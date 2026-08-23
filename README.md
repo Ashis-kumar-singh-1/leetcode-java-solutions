@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
