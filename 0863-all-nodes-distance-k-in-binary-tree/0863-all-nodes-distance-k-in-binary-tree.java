@@ -44,7 +44,7 @@ class Solution {
                     q.add(curr.right);
                 }
 
-                // Go to parent
+                // Go to parent backwards
                 TreeNode par = parent.get(curr);
                 if (par != null && !visited.contains(par)) {
                     visited.add(par);
@@ -53,8 +53,8 @@ class Solution {
             }
             level++;
         }
-
         // Queue now contains nodes at distance k
+        // we will add all the value that we have remove from the queue 
         while (!q.isEmpty()) {
             ans.add(q.poll().val);
         }
