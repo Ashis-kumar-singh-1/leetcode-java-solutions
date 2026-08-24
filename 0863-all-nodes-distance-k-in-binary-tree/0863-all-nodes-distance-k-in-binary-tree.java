@@ -13,17 +13,14 @@ class Solution {
         // Store parent of every node
         Map<TreeNode, TreeNode> parent = new HashMap<>();
         makeParent(root, null, parent);
-
         // Queue for level order traversal
         Queue<TreeNode> q = new LinkedList<>();
         q.add(target);
-
         // To avoid going back to the same node
         Set<TreeNode> visited = new HashSet<>();
         visited.add(target);
         int level = 0;
         while (!q.isEmpty()) {
-
             // If we reached distance k
             if (level == k) {
                 break;
@@ -43,7 +40,6 @@ class Solution {
                     visited.add(curr.right);
                     q.add(curr.right);
                 }
-
                 // Go to parent backwards
                 TreeNode par = parent.get(curr);
                 if (par != null && !visited.contains(par)) {
