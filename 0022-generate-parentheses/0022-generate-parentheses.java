@@ -9,11 +9,9 @@ class Solution {
             result.add(current);
             return;
         }
-        // We can add '(' if we have not used all opening brackets
         if (open < n) {
             backtrack(result, current + "(", open + 1, close, n);
         }
-        // We can add ')' only when there is an unmatched '('
         if (close < open) {
             backtrack(result, current + ")", open, close + 1, n);
         }
