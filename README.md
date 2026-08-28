@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
@@ -200,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashis-kumar-singh-1/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
