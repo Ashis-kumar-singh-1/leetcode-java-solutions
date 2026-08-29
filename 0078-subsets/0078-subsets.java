@@ -14,6 +14,5 @@ class Solution {
         getAllSubsets(nums,ans,i+1,result);
         ans.removeLast();
         getAllSubsets(nums,ans,i+1,result);
-
     }
 }
